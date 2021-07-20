@@ -9,7 +9,7 @@ Skills: HTML / CSS / JS
 - 🔭 I’m currently working on Frontend design 
 - 🌱 I’m currently learning ReactJs 
 - 👯 I’m looking to collaborate on Backend technologies 
-- 📫 How to reach me: mahmudrakib786@gamil.com 
+- 📫 How to reach me: mahmudrakib786@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ishtiaque786)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ishtiaque786/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ishtiaque.rakib)  
