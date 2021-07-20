@@ -1,4 +1,4 @@
-### Hi there 👋, Ishtiaque Mahmud Rakib
+### Hi there 👋 I am, Ishtiaque Mahmud Rakib
 #### Frontend Developer
 
 
